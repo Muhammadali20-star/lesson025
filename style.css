@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+}
+button{
+    border: none;
+    background-color: #00CCCC;
+    color: #0F2336;
+    width: 130px;
+    height: 35px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+form{
+    display: flex;
+    gap: 20px;
+}
+input{
+    width: 250px;
+    height: 35px;
+    padding: 10px;
+    border-radius: 8px;
+}
