@@ -41,7 +41,7 @@ const formEi = document.querySelector("form")
 const inputFnameEi = document.querySelector(".fname")
 const inputLnameEi = document.querySelector(".lname")
 const tbodyEI = document.querySelector("tbody")
-// const buttonEI = document.querySelector("button")
+
 
 let index = 1
 formEi.addEventListener("submit", (e)=>{
